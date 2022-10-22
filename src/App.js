@@ -1,9 +1,14 @@
 import './App.css';
+import Navbar from './Components/Navbar';
+import Body from './Components/Body';
 
-const App=()=> {
+const App = () => {
   return (
     <div className="App">
-      <h1>heloo</h1>
+
+      <Navbar />
+      <Body />
+
     </div>
   );
 }
