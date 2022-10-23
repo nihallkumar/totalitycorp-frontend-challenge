@@ -6,4 +6,4 @@ Technology Stack
 Tools & Technologies: React, HTML, CSS.    
 Project Management Tools: Git/Github.
 
-Deployed on Vercel, https://not-apple-ten.vercel.app/
+Deployed on Vercel, https://not-apple-9xyuhbjun-nihallkumar.vercel.app
