@@ -7,3 +7,4 @@ Tools & Technologies: React, HTML, CSS.
 Project Management Tools: Git/Github.
 
 Deployed on Vercel, https://not-apple-9xyuhbjun-nihallkumar.vercel.app
+(if this link showing security error, because its a apple website clone, then click on "Details" button and try to visit by using "visit this unsafe site" link at last line)
