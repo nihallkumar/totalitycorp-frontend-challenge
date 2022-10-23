@@ -1,5 +1,6 @@
 import React from 'react'
 import Unit from './Unit'
+// import "./CS.css"
 
 function Body() {
     return (
@@ -10,12 +11,20 @@ function Body() {
 
             <Unit main="hero iphone-14" title="title" titleHeading="title-heading" ctaLink="cta-link" titleHead="iPhone 14" titleSubHead="Big and Bigger." price="" />
 
-            <div className="wrapper">
-                <div className="one"></div>
-                <div className="one"></div>
-            </div>
+            {/* <div className="wrapper">
+                <div className="one">
+                    <Unit main="hero watch" title="title title-dark" titleHeading="title-heading-watch" ctaLink="cta-link cta-link-darker" titleHead="" titleSubHead={`with the new display ${<br />} never seen a watch like this`} price="" />
+                </div>
+                <div className="one">
+                    <Unit main="hero watch" title="title title-dark" titleHeading="title-heading-watch" ctaLink="cta-link cta-link-darker" titleHead="" titleSubHead={`with the new display ${<br />} never seen a watch like this`} price="" />
+                </div>
+            </div> */}
 
             {/* <Unit main="hero watch" title="title title-dark" titleHeading="title-heading-watch" ctaLink="cta-link cta-link-darker" titleHead="" titleSubHead={`with the new display ${<br />} never seen a watch like this`} price="" /> */}
+
+
+
+            
 
         </>
     )
